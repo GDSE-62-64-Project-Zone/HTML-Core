@@ -1,0 +1,18 @@
+WEBVTT
+STYLE
+::cue {
+  color: white;
+}
+1
+00:00:01.000 --> 00:00:04.000 align:left
+- Never drink liquid nitrogen.
+
+2
+00:00:05.000 --> 00:00:09.000 align:center
+- It will perforate your stomach.
+- You could die.
+
+3
+00:00:09.000 --> 00:10:11.000 align:right
+- Don't tell lies.
+- This is for testing.
